@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "sequelize": "^3.23.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanquanyou/nodejs-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanquanyou/nodejs-learn/issues"
+  },
+  "homepage": "https://github.com/wanquanyou/nodejs-learn#readme"
+}
